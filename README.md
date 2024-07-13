@@ -16,10 +16,10 @@ Check out the demo [here](https://github.com/uidesigner-Priya/CODSOFT_2/blob/mai
 ## Screenshots
 
 ### Desktop View
-![Desktop View](./images/desktop-view.png)
+![Desktop View](https://github.com/uidesigner-Priya/CODSOFT_2/blob/a1e24cec736b2028d15ea6f8a60f36638a3d8486/images/Desktop_view.png)
 
 ### Mobile View
-![Mobile View](./images/mobile-view.png)
+![Mobile View](https://github.com/uidesigner-Priya/CODSOFT_2/blob/a1e24cec736b2028d15ea6f8a60f36638a3d8486/images/Mobile_View.png)
 
 ## Getting Started
 
