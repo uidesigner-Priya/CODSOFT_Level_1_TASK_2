@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This project is a modern, responsive landing page designed using HTML, CSS, and JavaScript. The landing page is visually appealing and optimized for both desktop and mobile devices, showcasing essential information and features to engage visitors effectively.
+This project is a modern, responsive landing page designed using HTML, CSS, and JavaScript. The landing page is visually appealing and optimized for both desktop and mobile devices, showcasing essential information and features to engage visitors effectively. This project is a part of my Level 1 internship task given by CODSOFT.
 
 ## Features
 
@@ -43,11 +43,10 @@ You need a web browser to view the landing page.
   
 ## Folder Structure
 ```
-├── calci.html
-├── calci.css
-├── calci.js
+├── page.html
+├── page.css
+├── page.js
 ├── images
-│   ├── Light mode.png
-│   └── Dark mode.png
+├── Demo_Video
 └── README.md
 ```
