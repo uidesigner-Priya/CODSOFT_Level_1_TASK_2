@@ -11,7 +11,7 @@ This project is a modern, responsive landing page designed using HTML, CSS, and 
 
 ## Demo
 
-Check out the live demo [here](https://your-username.github.io/landing-page-project/).
+Check out the demo [here](https://github.com/uidesigner-Priya/CODSOFT_2/blob/main/Demo_Video/landing-page-demo_hfbVAKdT.mp4).
 
 ## Screenshots
 
