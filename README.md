@@ -37,6 +37,17 @@ You need a web browser to view the landing page.
 
 2. Open the page.html file in your web browser.
 
-3. -> Open the landing page in your web browser.
-   -> Explore the features and interactive elements.
-   -> Customize the content and styling as needed.
+3. - Open the landing page in your web browser.
+   - Explore the features and interactive elements.
+   - Customize the content and styling as needed.
+  
+## Folder Structure
+```
+├── calci.html
+├── calci.css
+├── calci.js
+├── images
+│   ├── Light mode.png
+│   └── Dark mode.png
+└── README.md
+```
