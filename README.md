@@ -33,7 +33,7 @@ You need a web browser to view the landing page.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/landing-page-project.git
+   git clone https://github.com/uidesigner-Priya/CODSOFT_Level_1_TASK_2.git
 
 2. Open the page.html file in your web browser.
 
