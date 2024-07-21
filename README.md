@@ -47,6 +47,5 @@ You need a web browser to view the landing page.
 ├── page.css
 ├── page.js
 ├── images
-├── Demo_Video
 └── README.md
 ```
